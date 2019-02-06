@@ -29,11 +29,11 @@
       margin: 0;
       padding: 0;
     }
-    .question-text p {
+    .question-text p, .question-text p p{
       margin-top: 0px;
       margin-bottom: 5px;
     }
-    .question-text p:first-child{
+    .question-text p:first-child, .question-text p p:first-child {
       margin-top:-1px;
     }
     #answer-sheet {
@@ -151,9 +151,17 @@
               {{#if (eq this.type 'MCQ')}}
               <tr>
                 <td class="question-text">
-                  {{{this.common_text}}}
-                  {{{this.en_text}}}
-                  {{{this.hi_text}}}
+                  {{#if this.common_text}}
+                    <p>
+                      {{{this.common_text}}}
+                    </p>
+                  {{/if}}
+                  <p>
+                    {{{this.en_text}}}
+                  </p>
+                  <p>
+                    {{{this.hi_text}}}
+                  </p>
                 </td>
               </tr>
               <tr class="inline-block">
@@ -162,10 +170,16 @@
                   <td style="width:20px" colspan="2">{{string_lower @index}}).</td>
                   <td class="options-cell">
                     {{#if this.is_common}}
-                    {{{this.hi_text}}}
+                    <p>
+                      {{{this.hi_text}}}
+                    </p>
                     {{else}}
-                    {{{this.en_text}}}
-                    {{{this.hi_text}}}
+                    <p>
+                      {{{this.en_text}}}
+                    </p>
+                    <p>
+                      {{{this.hi_text}}}                      
+                    </p>
                     {{/if}}
                   </td>
                 </tr>
@@ -174,9 +188,17 @@
               {{else}}
               <tr>
                 <td valign='top' class="question-text">
-                  {{{this.common_text}}}
-                  {{{this.en_text}}}
-                  {{{this.hi_text}}}
+                  {{#if this.common_text}}
+                    <p>
+                      {{{this.common_text}}}
+                    </p>
+                  {{/if}}
+                  <p>
+                    {{{this.en_text}}}
+                  </p>
+                  <p>
+                    {{{this.hi_text}}}
+                  </p>
                   <p>Iska answer likho answers wale page pe.</p>
                 </td>
               </tr>

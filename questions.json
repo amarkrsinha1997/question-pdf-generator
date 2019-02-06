@@ -4,85 +4,85 @@
 	"partner_name": "Amar",
 	"questions": [
 		{
-			"en_text": "<p>PENDING</p>\n",
+			"en_text": "PENDING\n",
 			"common_text": "",
 			"type": "MCQ",
 			"id": 1,
 			"options": [
 				{
-					"hi_text": "<td style=\"text-align:left\">40ml black, 30ml white</td>",
+					"hi_text": "40ml black, 30ml white",
 					"is_common": true,
 					"id": 1,
-					"en_text": "<td style=\"text-align:left\">40ml black, 30ml white</td>",
+					"en_text": "40ml black, 30ml white",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">30ml black, 20 ml white</td>",
+					"hi_text": "30ml black, 20 ml white",
 					"is_common": true,
 					"id": 2,
-					"en_text": "<td style=\"text-align:left\">30ml black, 20 ml white</td>",
+					"en_text": "30ml black, 20 ml white",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">30ml black, 24ml white</td>",
+					"hi_text": "30ml black, 24ml white",
 					"is_common": true,
 					"id": 3,
-					"en_text": "<td style=\"text-align:left\">30ml black, 24ml white</td>",
+					"en_text": "30ml black, 24ml white",
 					"correct": true
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">25ml black, 16ml white</td>",
+					"hi_text": "25ml black, 16ml white",
 					"is_common": true,
 					"id": 4,
-					"en_text": "<td style=\"text-align:left\">25ml black, 16ml white</td>",
+					"en_text": "25ml black, 16ml white",
 					"correct": false
 				}
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>5 ml black color aur 4 ml white color se grey color banta hai. Niche diye hue kis color combination se grey color banega?</p>\n"
+			"hi_text": "5 ml black color aur 4 ml white color se grey color banta hai. Niche diye hue kis color combination se grey color banega?\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
+			"en_text": "PENDING\n",
 			"common_text": "",
 			"type": "MCQ",
 			"id": 2,
 			"options": [
 				{
-					"hi_text": "<td style=\"text-align:left\">98 gram cheeni, 21 ml nimbu</td>",
+					"hi_text": "98 gram cheeni, 21 ml nimbu",
 					"is_common": true,
 					"id": 5,
-					"en_text": "<td style=\"text-align:left\">98 gram cheeni, 21 ml nimbu</td>",
+					"en_text": "98 gram cheeni, 21 ml nimbu",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">96 gram cheeni, 24 ml nimbu</td>",
+					"hi_text": "96 gram cheeni, 24 ml nimbu",
 					"is_common": true,
 					"id": 6,
-					"en_text": "<td style=\"text-align:left\">96 gram cheeni, 24 ml nimbu</td>",
+					"en_text": "96 gram cheeni, 24 ml nimbu",
 					"correct": true
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">84 gram cheeni, 24 ml nimbu</td>",
+					"hi_text": "84 gram cheeni, 24 ml nimbu",
 					"is_common": true,
 					"id": 7,
-					"en_text": "<td style=\"text-align:left\">84 gram cheeni, 24 ml nimbu</td>",
+					"en_text": "84 gram cheeni, 24 ml nimbu",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">92 gram cheeni, 25 ml nimbu</td>",
+					"hi_text": "92 gram cheeni, 25 ml nimbu",
 					"is_common": true,
 					"id": 8,
-					"en_text": "<td style=\"text-align:left\">92 gram cheeni, 25 ml nimbu</td>",
+					"en_text": "92 gram cheeni, 25 ml nimbu",
 					"correct": false
 				}
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Nimbu paani ke ek glass mein 12 gram cheeni dalti hai aur 3 ml nimbu. Neeche diye gaye options mein se yeh bataye ki 8 glass Nimbu Paani banane ke liye aapko kitni cheeni aur nimbu chahiye?</p>\n"
+			"hi_text": "Nimbu paani ke ek glass mein 12 gram cheeni dalti hai aur 3 ml nimbu. Neeche diye gaye options mein se yeh bataye ki 8 glass Nimbu Paani banane ke liye aapko kitni cheeni aur nimbu chahiye?\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
+			"en_text": "PENDING\n",
 			"common_text": "",
 			"type": "Integer Answer",
 			"id": 3,
@@ -97,10 +97,10 @@
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Cheerapunji ka temperature morning mein -14 degree celsius. Agar wahan ka temperature 7 degrees aur drop hota hai, toh Cheerapunji ka temperature kitna hai?</p>\n"
+			"hi_text": "Cheerapunji ka temperature morning mein -14 degree celsius. Agar wahan ka temperature 7 degrees aur drop hota hai, toh Cheerapunji ka temperature kitna hai?\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
+			"en_text": "PENDING\n",
 			"common_text": "",
 			"type": "Integer Answer",
 			"id": 4,
@@ -115,96 +115,96 @@
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Manali mein temperature Monday ko -3 degree celsius tha. Tuesday ko waha ka temperature 8 degrees aur drop ho gaya. Wednesday Tuesday se thoda garam tha aur temperature bhi 4 degree rise ho gaya. Wednesday ko Manali mein kitna temperature hua?</p>\n"
+			"hi_text": "Manali mein temperature Monday ko -3 degree celsius tha. Tuesday ko waha ka temperature 8 degrees aur drop ho gaya. Wednesday Tuesday se thoda garam tha aur temperature bhi 4 degree rise ho gaya. Wednesday ko Manali mein kitna temperature hua?\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
-			"common_text": "<p><img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/f27cd9b3-c01a-4c14-8077-3711dca6d8c3.png\"/></p>\n",
+			"en_text": "PENDING\n",
+			"common_text": "<img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/f27cd9b3-c01a-4c14-8077-3711dca6d8c3.png\"/>\n",
 			"type": "MCQ",
 			"id": 5,
 			"options": [
 				{
-					"hi_text": "<td style=\"text-align:left\">A</td>",
+					"hi_text": "A",
 					"is_common": true,
 					"id": 11,
-					"en_text": "<td style=\"text-align:left\">A</td>",
+					"en_text": "A",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">E</td>",
+					"hi_text": "E",
 					"is_common": true,
 					"id": 12,
-					"en_text": "<td style=\"text-align:left\">E</td>",
+					"en_text": "E",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">B</td>",
+					"hi_text": "B",
 					"is_common": true,
 					"id": 13,
-					"en_text": "<td style=\"text-align:left\">B</td>",
+					"en_text": "B",
 					"correct": true
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">C</td>",
+					"hi_text": "C",
 					"is_common": true,
 					"id": 14,
-					"en_text": "<td style=\"text-align:left\">C</td>",
+					"en_text": "C",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">D</td>",
+					"hi_text": "D",
 					"is_common": true,
 					"id": 15,
-					"en_text": "<td style=\"text-align:left\">D</td>",
+					"en_text": "D",
 					"correct": false
 				}
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Fold karne ke baad, ye 2D image kis box ki tarah banega?</p>\n"
+			"hi_text": "Fold karne ke baad, ye 2D image kis box ki tarah banega?\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
-			"common_text": "<p><img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/012a50cc-6937-43ba-995c-f6d7b81442b1.gif\"/></p>\n",
+			"en_text": "PENDING\n",
+			"common_text": "<img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/012a50cc-6937-43ba-995c-f6d7b81442b1.gif\"/>\n",
 			"type": "MCQ",
 			"id": 6,
 			"options": [
 				{
-					"hi_text": "<td style=\"text-align:left\">A</td>",
+					"hi_text": "A",
 					"is_common": true,
 					"id": 16,
-					"en_text": "<td style=\"text-align:left\">A</td>",
+					"en_text": "A",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">D</td>",
+					"hi_text": "D",
 					"is_common": true,
 					"id": 17,
-					"en_text": "<td style=\"text-align:left\">D</td>",
+					"en_text": "D",
 					"correct": true
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">B</td>",
+					"hi_text": "B",
 					"is_common": true,
 					"id": 18,
-					"en_text": "<td style=\"text-align:left\">B</td>",
+					"en_text": "B",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">C</td>",
+					"hi_text": "C",
 					"is_common": true,
 					"id": 19,
-					"en_text": "<td style=\"text-align:left\">C</td>",
+					"en_text": "C",
 					"correct": false
 				}
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Fold karne ke baad, ye 2D image kis house ki tarah banega?</p>\n"
+			"hi_text": "Fold karne ke baad, ye 2D image kis house ki tarah banega?\n"
 		},
 		{
-			"en_text": "<p>Solve the equation given above.</p>\n",
-			"common_text": "<p>8 + (−25) + 16 − (−25) −16</p>\n",
+			"en_text": "Solve the equation given above.\n",
+			"common_text": "8 + (−25) + 16 − (−25) −16\n",
 			"type": "Integer Answer",
 			"id": 7,
 			"options": [
@@ -218,11 +218,11 @@
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Upar diye gaye equation ko solve kare.</p>\n"
+			"hi_text": "Upar diye gaye equation ko solve kare.\n"
 		},
 		{
-			"en_text": "<p>Solve the equation given above.</p>\n",
-			"common_text": "<p>33 - 8 + 17 + 10 - (-8) - 10</p>\n",
+			"en_text": "Solve the equation given above.\n",
+			"common_text": "33 - 8 + 17 + 10 - (-8) - 10\n",
 			"type": "Integer Answer",
 			"id": 8,
 			"options": [
@@ -236,251 +236,251 @@
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Upar diye gaye equation ko solve kare.</p>\n"
+			"hi_text": "Upar diye gaye equation ko solve kare.\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
-			"common_text": "<p><img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/12b7fefb-12b9-4f15-b52a-169458541c3b.png\"/></p>\n",
+			"en_text": "PENDING\n",
+			"common_text": "<img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/12b7fefb-12b9-4f15-b52a-169458541c3b.png\"/>\n",
 			"type": "MCQ",
 			"id": 9,
 			"options": [
 				{
-					"hi_text": "<td style=\"text-align:left\">E</td>",
+					"hi_text": "E",
 					"is_common": true,
 					"id": 22,
-					"en_text": "<td style=\"text-align:left\">E</td>",
+					"en_text": "E",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">A</td>",
+					"hi_text": "A",
 					"is_common": true,
 					"id": 23,
-					"en_text": "<td style=\"text-align:left\">A</td>",
+					"en_text": "A",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">C</td>",
+					"hi_text": "C",
 					"is_common": true,
 					"id": 24,
-					"en_text": "<td style=\"text-align:left\">C</td>",
+					"en_text": "C",
 					"correct": true
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">B</td>",
+					"hi_text": "B",
 					"is_common": true,
 					"id": 25,
-					"en_text": "<td style=\"text-align:left\">B</td>",
+					"en_text": "B",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">D</td>",
+					"hi_text": "D",
 					"is_common": true,
 					"id": 26,
-					"en_text": "<td style=\"text-align:left\">D</td>",
+					"en_text": "D",
 					"correct": false
 				}
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Niche diye hue image ka reflection kaisa hoga?</p>\n"
+			"hi_text": "Niche diye hue image ka reflection kaisa hoga?\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
-			"common_text": "<p><img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/f69a6275-45de-4f22-a20e-5adabeaa6ba0.gif\"/></p>\n",
+			"en_text": "PENDING\n",
+			"common_text": "<img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/f69a6275-45de-4f22-a20e-5adabeaa6ba0.gif\"/>\n",
 			"type": "MCQ",
 			"id": 10,
 			"options": [
 				{
-					"hi_text": "<td style=\"text-align:left\">D</td>",
+					"hi_text": "D",
 					"is_common": true,
 					"id": 27,
-					"en_text": "<td style=\"text-align:left\">D</td>",
+					"en_text": "D",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">C</td>",
+					"hi_text": "C",
 					"is_common": true,
 					"id": 28,
-					"en_text": "<td style=\"text-align:left\">C</td>",
+					"en_text": "C",
 					"correct": true
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">B</td>",
+					"hi_text": "B",
 					"is_common": true,
 					"id": 29,
-					"en_text": "<td style=\"text-align:left\">B</td>",
+					"en_text": "B",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">A</td>",
+					"hi_text": "A",
 					"is_common": true,
 					"id": 30,
-					"en_text": "<td style=\"text-align:left\">A</td>",
+					"en_text": "A",
 					"correct": false
 				}
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Neeche kuch chhote shapes diye huye hai. Un sab ko jod kar konsa bada shape banaya jaa sakta hai? Apna option choose kijiye aur answer wale page par likhiye.</p>\n"
+			"hi_text": "Neeche kuch chhote shapes diye huye hai. Un sab ko jod kar konsa bada shape banaya jaa sakta hai? Apna option choose kijiye aur answer wale page par likhiye.\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
-			"common_text": "<p><img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/6eb1ef99-bf88-4eb5-8e9b-b14a71d9c63d.png\"/></p>\n",
+			"en_text": "PENDING\n",
+			"common_text": "<img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/6eb1ef99-bf88-4eb5-8e9b-b14a71d9c63d.png\"/>\n",
 			"type": "MCQ",
 			"id": 11,
 			"options": [
 				{
-					"hi_text": "<td style=\"text-align:left\">25%</td>",
+					"hi_text": "25%",
 					"is_common": true,
 					"id": 31,
-					"en_text": "<td style=\"text-align:left\">25%</td>",
+					"en_text": "25%",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">35%</td>",
+					"hi_text": "35%",
 					"is_common": true,
 					"id": 32,
-					"en_text": "<td style=\"text-align:left\">35%</td>",
+					"en_text": "35%",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">30%</td>",
+					"hi_text": "30%",
 					"is_common": true,
 					"id": 33,
-					"en_text": "<td style=\"text-align:left\">30%</td>",
+					"en_text": "30%",
 					"correct": true
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">40%</td>",
+					"hi_text": "40%",
 					"is_common": true,
 					"id": 34,
-					"en_text": "<td style=\"text-align:left\">40%</td>",
+					"en_text": "40%",
 					"correct": false
 				}
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Shaded area poore area ka kitna percent hai?</p>\n"
+			"hi_text": "Shaded area poore area ka kitna percent hai?\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
-			"common_text": "<p><img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/6c832d53-b4a3-4fc6-8594-ce11160c0bfb.png\"/></p>\n",
+			"en_text": "PENDING\n",
+			"common_text": "<img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/6c832d53-b4a3-4fc6-8594-ce11160c0bfb.png\"/>\n",
 			"type": "MCQ",
 			"id": 12,
 			"options": [
 				{
-					"hi_text": "<td style=\"text-align:left\">25%</td>",
+					"hi_text": "25%",
 					"is_common": true,
 					"id": 35,
-					"en_text": "<td style=\"text-align:left\">25%</td>",
+					"en_text": "25%",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">35%</td>",
+					"hi_text": "35%",
 					"is_common": true,
 					"id": 36,
-					"en_text": "<td style=\"text-align:left\">35%</td>",
+					"en_text": "35%",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">30%</td>",
+					"hi_text": "30%",
 					"is_common": true,
 					"id": 37,
-					"en_text": "<td style=\"text-align:left\">30%</td>",
+					"en_text": "30%",
 					"correct": true
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">40%</td>",
+					"hi_text": "40%",
 					"is_common": true,
 					"id": 38,
-					"en_text": "<td style=\"text-align:left\">40%</td>",
+					"en_text": "40%",
 					"correct": false
 				}
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Neeche di gayi picture mein dekh ke batao ki pure mein se kitna area shaded hai?</p>\n"
+			"hi_text": "Neeche di gayi picture mein dekh ke batao ki pure mein se kitna area shaded hai?\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
-			"common_text": "<p><img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/d6c71663-3851-47d1-98ea-c4d7acd16821.png\"/></p>\n",
+			"en_text": "PENDING\n",
+			"common_text": "<img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/d6c71663-3851-47d1-98ea-c4d7acd16821.png\"/>\n",
 			"type": "MCQ",
 			"id": 13,
 			"options": [
 				{
-					"hi_text": "<td style=\"text-align:left\">50%</td>",
+					"hi_text": "50%",
 					"is_common": true,
 					"id": 39,
-					"en_text": "<td style=\"text-align:left\">50%</td>",
+					"en_text": "50%",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">70%</td>",
+					"hi_text": "70%",
 					"is_common": true,
 					"id": 40,
-					"en_text": "<td style=\"text-align:left\">70%</td>",
+					"en_text": "70%",
 					"correct": true
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">60%</td>",
+					"hi_text": "60%",
 					"is_common": true,
 					"id": 41,
-					"en_text": "<td style=\"text-align:left\">60%</td>",
+					"en_text": "60%",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">80%</td>",
+					"hi_text": "80%",
 					"is_common": true,
 					"id": 42,
-					"en_text": "<td style=\"text-align:left\">80%</td>",
+					"en_text": "80%",
 					"correct": false
 				}
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Shaded area poore area ka kitna percent hai?</p>\n"
+			"hi_text": "Shaded area poore area ka kitna percent hai?\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
-			"common_text": "<p><img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/0f3d3666-814b-4454-b2b9-467d02f1a97b.png\"/></p>\n",
+			"en_text": "PENDING\n",
+			"common_text": "<img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/0f3d3666-814b-4454-b2b9-467d02f1a97b.png\"/>\n",
 			"type": "MCQ",
 			"id": 14,
 			"options": [
 				{
-					"hi_text": "<td style=\"text-align:left\">2/5</td>",
+					"hi_text": "2/5",
 					"is_common": true,
 					"id": 43,
-					"en_text": "<td style=\"text-align:left\">2/5</td>",
+					"en_text": "2/5",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">1/3</td>",
+					"hi_text": "1/3",
 					"is_common": true,
 					"id": 44,
-					"en_text": "<td style=\"text-align:left\">1/3</td>",
+					"en_text": "1/3",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">1/4</td>",
+					"hi_text": "1/4",
 					"is_common": true,
 					"id": 45,
-					"en_text": "<td style=\"text-align:left\">1/4</td>",
+					"en_text": "1/4",
 					"correct": true
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">1/5</td>",
+					"hi_text": "1/5",
 					"is_common": true,
 					"id": 46,
-					"en_text": "<td style=\"text-align:left\">1/5</td>",
+					"en_text": "1/5",
 					"correct": false
 				}
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Neeche di gayi picture mein dekh ke batao ki pure mein se kitna area shaded hai?</p>\n"
+			"hi_text": "Neeche di gayi picture mein dekh ke batao ki pure mein se kitna area shaded hai?\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
+			"en_text": "PENDING\n",
 			"common_text": "",
 			"type": "Integer Answer",
 			"id": 15,
@@ -495,10 +495,10 @@
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Maan lein ki x = a/b hai. Agar a =6 aur b=2 toh x ki value kya hai?</p>\n"
+			"hi_text": "Maan lein ki x = a/b hai. Agar a =6 aur b=2 toh x ki value kya hai?\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
+			"en_text": "PENDING\n",
 			"common_text": "",
 			"type": "Integer Answer",
 			"id": 16,
@@ -513,89 +513,89 @@
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Maan lein ki x = a * b hai. Ab agar x = 10 aur a = 2 hai, toh b ki value kitni hogi?</p>\n"
+			"hi_text": "Maan lein ki x = a * b hai. Ab agar x = 10 aur a = 2 hai, toh b ki value kitni hogi?\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
-			"common_text": "<p><img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/9af016be-a7f4-4f1e-b0ec-9d52cf8959db.png\"/></p>\n",
+			"en_text": "PENDING\n",
+			"common_text": "<img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/9af016be-a7f4-4f1e-b0ec-9d52cf8959db.png\"/>\n",
 			"type": "MCQ",
 			"id": 17,
 			"options": [
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/faa368aa-ccca-42a6-b155-2e6d816ee061.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/faa368aa-ccca-42a6-b155-2e6d816ee061.png\"/>",
 					"is_common": true,
 					"id": 49,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/faa368aa-ccca-42a6-b155-2e6d816ee061.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/faa368aa-ccca-42a6-b155-2e6d816ee061.png\"/>",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/4ca66587-7401-4cb3-952a-c3552b33ac6e.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/4ca66587-7401-4cb3-952a-c3552b33ac6e.png\"/>",
 					"is_common": true,
 					"id": 50,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/4ca66587-7401-4cb3-952a-c3552b33ac6e.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/4ca66587-7401-4cb3-952a-c3552b33ac6e.png\"/>",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/a69a3a46-af54-4c4a-9c37-9d2f8d104782.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/a69a3a46-af54-4c4a-9c37-9d2f8d104782.png\"/>",
 					"is_common": true,
 					"id": 51,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/a69a3a46-af54-4c4a-9c37-9d2f8d104782.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/a69a3a46-af54-4c4a-9c37-9d2f8d104782.png\"/>",
 					"correct": true
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/49774283-c0be-47a1-b05b-dda0960e8020.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/49774283-c0be-47a1-b05b-dda0960e8020.png\"/>",
 					"is_common": true,
 					"id": 52,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/49774283-c0be-47a1-b05b-dda0960e8020.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/49774283-c0be-47a1-b05b-dda0960e8020.png\"/>",
 					"correct": false
 				}
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Question mark ki jagah par sahi figure choose kijiye.</p>\n"
+			"hi_text": "Question mark ki jagah par sahi figure choose kijiye.\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
-			"common_text": "<p><img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/1db9c04c-51ce-439e-b5e1-b93d71d954d5.png\"/></p>\n",
+			"en_text": "PENDING\n",
+			"common_text": "<img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/1db9c04c-51ce-439e-b5e1-b93d71d954d5.png\"/>\n",
 			"type": "MCQ",
 			"id": 18,
 			"options": [
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/fe5ed3f3-02b0-4bd1-9805-ce2bd6627dd9.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/fe5ed3f3-02b0-4bd1-9805-ce2bd6627dd9.png\"/>",
 					"is_common": true,
 					"id": 53,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/fe5ed3f3-02b0-4bd1-9805-ce2bd6627dd9.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/fe5ed3f3-02b0-4bd1-9805-ce2bd6627dd9.png\"/>",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/bbe32779-b785-4b93-a457-c1a084dd4b40.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/bbe32779-b785-4b93-a457-c1a084dd4b40.png\"/>",
 					"is_common": true,
 					"id": 54,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/bbe32779-b785-4b93-a457-c1a084dd4b40.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/bbe32779-b785-4b93-a457-c1a084dd4b40.png\"/>",
 					"correct": true
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/3a478ff5-d6be-4c22-943f-6c63a150dbef.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/3a478ff5-d6be-4c22-943f-6c63a150dbef.png\"/>",
 					"is_common": true,
 					"id": 55,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/3a478ff5-d6be-4c22-943f-6c63a150dbef.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/3a478ff5-d6be-4c22-943f-6c63a150dbef.png\"/>",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/59334466-4116-4520-9b47-786f4d722b68.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/59334466-4116-4520-9b47-786f4d722b68.png\"/>",
 					"is_common": true,
 					"id": 56,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/59334466-4116-4520-9b47-786f4d722b68.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/59334466-4116-4520-9b47-786f4d722b68.png\"/>",
 					"correct": false
 				}
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Question mark ki jagah par sahi figure choose kijiye.</p>\n"
+			"hi_text": "Question mark ki jagah par sahi figure choose kijiye.\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
-			"common_text": "<p>x = y - 6\ny = 10\nx = ?</p>\n",
+			"en_text": "PENDING\n",
+			"common_text": "x = y - 6\ny = 10\nx = ?\n",
 			"type": "Integer Answer",
 			"id": 19,
 			"options": [
@@ -609,11 +609,11 @@
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Neeche diye hue equations mein x ke liye solve karein:</p>\n"
+			"hi_text": "Neeche diye hue equations mein x ke liye solve karein:\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
-			"common_text": "<p>x = y + 8\nx = 10\ny = ?</p>\n",
+			"en_text": "PENDING\n",
+			"common_text": "x = y + 8\nx = 10\ny = ?\n",
 			"type": "Integer Answer",
 			"id": 20,
 			"options": [
@@ -627,89 +627,89 @@
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Neeche diye hue equations mein x ke liye solve karein:</p>\n"
+			"hi_text": "Neeche diye hue equations mein x ke liye solve karein:\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
-			"common_text": "<p><img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/a3f0d45b-28bb-42c1-82f7-3c53eaec6c47.png\"/></p>\n",
+			"en_text": "PENDING\n",
+			"common_text": "<img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/a3f0d45b-28bb-42c1-82f7-3c53eaec6c47.png\"/>\n",
 			"type": "MCQ",
 			"id": 21,
 			"options": [
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/c6b7d599-412c-4faf-a393-f48d79ab09b1.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/c6b7d599-412c-4faf-a393-f48d79ab09b1.png\"/>",
 					"is_common": true,
 					"id": 59,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/c6b7d599-412c-4faf-a393-f48d79ab09b1.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/c6b7d599-412c-4faf-a393-f48d79ab09b1.png\"/>",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/f7ac39dc-c50e-427e-b5ce-a1a9fb8ee53a.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/f7ac39dc-c50e-427e-b5ce-a1a9fb8ee53a.png\"/>",
 					"is_common": true,
 					"id": 60,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/f7ac39dc-c50e-427e-b5ce-a1a9fb8ee53a.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/f7ac39dc-c50e-427e-b5ce-a1a9fb8ee53a.png\"/>",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/84df47a7-69a2-4c69-a5e8-c8f9e33457c7.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/84df47a7-69a2-4c69-a5e8-c8f9e33457c7.png\"/>",
 					"is_common": true,
 					"id": 61,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/84df47a7-69a2-4c69-a5e8-c8f9e33457c7.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/84df47a7-69a2-4c69-a5e8-c8f9e33457c7.png\"/>",
 					"correct": true
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/596b556c-9b90-4d09-8bab-e66abe636d97.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/596b556c-9b90-4d09-8bab-e66abe636d97.png\"/>",
 					"is_common": true,
 					"id": 62,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/596b556c-9b90-4d09-8bab-e66abe636d97.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/596b556c-9b90-4d09-8bab-e66abe636d97.png\"/>",
 					"correct": false
 				}
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Niche diye hue images mein agla image kaun sa aayega</p>\n"
+			"hi_text": "Niche diye hue images mein agla image kaun sa aayega\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
-			"common_text": "<p><img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/9ba1b68d-c469-4854-b4ae-2bcd1e77237d.png\"/>\n<img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/98439642-0d19-48b0-8887-1383bbd2b104.png\"/></p>\n",
+			"en_text": "PENDING\n",
+			"common_text": "<img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/9ba1b68d-c469-4854-b4ae-2bcd1e77237d.png\"/>\n<img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/98439642-0d19-48b0-8887-1383bbd2b104.png\"/>\n",
 			"type": "MCQ",
 			"id": 22,
 			"options": [
 				{
-					"hi_text": "<td style=\"text-align:left\">C</td>",
+					"hi_text": "C",
 					"is_common": true,
 					"id": 63,
-					"en_text": "<td style=\"text-align:left\">C</td>",
+					"en_text": "C",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">A</td>",
+					"hi_text": "A",
 					"is_common": true,
 					"id": 64,
-					"en_text": "<td style=\"text-align:left\">A</td>",
+					"en_text": "A",
 					"correct": true
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">B</td>",
+					"hi_text": "B",
 					"is_common": true,
 					"id": 65,
-					"en_text": "<td style=\"text-align:left\">B</td>",
+					"en_text": "B",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">D</td>",
+					"hi_text": "D",
 					"is_common": true,
 					"id": 66,
-					"en_text": "<td style=\"text-align:left\">D</td>",
+					"en_text": "D",
 					"correct": false
 				}
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Niche diye hue images mein agla image kaun sa aayega</p>\n"
+			"hi_text": "Niche diye hue images mein agla image kaun sa aayega\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
-			"common_text": "<p><strong>1, 8, 27, 64, 125, ___</strong></p>\n",
+			"en_text": "PENDING\n",
+			"common_text": "<strong>1, 8, 27, 64, 125, ___</strong>\n",
 			"type": "Integer Answer",
 			"id": 23,
 			"options": [
@@ -723,11 +723,11 @@
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Inn numbers ko dekhiye aur agla number guess kijiye. Apna answer ko answers wale page pe likhiye.</p>\n"
+			"hi_text": "Inn numbers ko dekhiye aur agla number guess kijiye. Apna answer ko answers wale page pe likhiye.\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
-			"common_text": "<p><strong>5, 6, 10, 19, 35, ___</strong></p>\n",
+			"en_text": "PENDING\n",
+			"common_text": "<strong>5, 6, 10, 19, 35, ___</strong>\n",
 			"type": "Integer Answer",
 			"id": 24,
 			"options": [
@@ -741,251 +741,251 @@
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Inn numbers ko dekhiye aur agla number guess kijiye. Apna answer ko answers wale page pe likhiye.</p>\n"
+			"hi_text": "Inn numbers ko dekhiye aur agla number guess kijiye. Apna answer ko answers wale page pe likhiye.\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
-			"common_text": "<p><img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/02bf8af1-0131-42ff-b8c7-ab2ed02959bc.png\"/></p>\n",
+			"en_text": "PENDING\n",
+			"common_text": "<img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/02bf8af1-0131-42ff-b8c7-ab2ed02959bc.png\"/>\n",
 			"type": "MCQ",
 			"id": 25,
 			"options": [
 				{
-					"hi_text": "<td style=\"text-align:left\">B</td>",
+					"hi_text": "B",
 					"is_common": true,
 					"id": 69,
-					"en_text": "<td style=\"text-align:left\">B</td>",
+					"en_text": "B",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">A</td>",
+					"hi_text": "A",
 					"is_common": true,
 					"id": 70,
-					"en_text": "<td style=\"text-align:left\">A</td>",
+					"en_text": "A",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">E</td>",
+					"hi_text": "E",
 					"is_common": true,
 					"id": 71,
-					"en_text": "<td style=\"text-align:left\">E</td>",
+					"en_text": "E",
 					"correct": true
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">C</td>",
+					"hi_text": "C",
 					"is_common": true,
 					"id": 72,
-					"en_text": "<td style=\"text-align:left\">C</td>",
+					"en_text": "C",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">D</td>",
+					"hi_text": "D",
 					"is_common": true,
 					"id": 73,
-					"en_text": "<td style=\"text-align:left\">D</td>",
+					"en_text": "D",
 					"correct": false
 				}
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Niche diye hue image kitne blocks se bana hua hai?</p>\n"
+			"hi_text": "Niche diye hue image kitne blocks se bana hua hai?\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
-			"common_text": "<p><img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/68e30d11-0f65-4202-9378-73e7d978b174.gif\"/></p>\n",
+			"en_text": "PENDING\n",
+			"common_text": "<img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/68e30d11-0f65-4202-9378-73e7d978b174.gif\"/>\n",
 			"type": "MCQ",
 			"id": 26,
 			"options": [
 				{
-					"hi_text": "<td style=\"text-align:left\">28</td>",
+					"hi_text": "28",
 					"is_common": true,
 					"id": 74,
-					"en_text": "<td style=\"text-align:left\">28</td>",
+					"en_text": "28",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">29</td>",
+					"hi_text": "29",
 					"is_common": true,
 					"id": 75,
-					"en_text": "<td style=\"text-align:left\">29</td>",
+					"en_text": "29",
 					"correct": true
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">27</td>",
+					"hi_text": "27",
 					"is_common": true,
 					"id": 76,
-					"en_text": "<td style=\"text-align:left\">27</td>",
+					"en_text": "27",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">25</td>",
+					"hi_text": "25",
 					"is_common": true,
 					"id": 77,
-					"en_text": "<td style=\"text-align:left\">25</td>",
+					"en_text": "25",
 					"correct": false
 				}
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Neeche kuch chhote shapes diye huye hai. Un sab ko jod kar konsa bada shape banaya jaa sakta hai? Apna option choose kijiye aur answer wale page par likhiye.</p>\n"
+			"hi_text": "Neeche kuch chhote shapes diye huye hai. Un sab ko jod kar konsa bada shape banaya jaa sakta hai? Apna option choose kijiye aur answer wale page par likhiye.\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
-			"common_text": "<p>y = x + 4\ny = 2x + 2</p>\n",
+			"en_text": "PENDING\n",
+			"common_text": "y = x + 4\ny = 2x + 2\n",
 			"type": "MCQ",
 			"id": 27,
 			"options": [
 				{
-					"hi_text": "<td style=\"text-align:left\"><strong>x = 3, y = 5</strong></td>",
+					"hi_text": "<strong>x = 3, y = 5</strong>",
 					"is_common": true,
 					"id": 78,
-					"en_text": "<td style=\"text-align:left\"><strong>x = 3, y = 5</strong></td>",
+					"en_text": "<strong>x = 3, y = 5</strong>",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\"><strong>x = 2, y = 4</strong></td>",
+					"hi_text": "<strong>x = 2, y = 4</strong>",
 					"is_common": true,
 					"id": 79,
-					"en_text": "<td style=\"text-align:left\"><strong>x = 2, y = 4</strong></td>",
+					"en_text": "<strong>x = 2, y = 4</strong>",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\"><strong>x = 4, y = 2</strong></td>",
+					"hi_text": "<strong>x = 4, y = 2</strong>",
 					"is_common": true,
 					"id": 80,
-					"en_text": "<td style=\"text-align:left\"><strong>x = 4, y = 2</strong></td>",
+					"en_text": "<strong>x = 4, y = 2</strong>",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\"><strong>x = 2, y = 6</strong></td>",
+					"hi_text": "<strong>x = 2, y = 6</strong>",
 					"is_common": true,
 					"id": 81,
-					"en_text": "<td style=\"text-align:left\"><strong>x = 2, y = 6</strong></td>",
+					"en_text": "<strong>x = 2, y = 6</strong>",
 					"correct": true
 				}
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p><strong>x</strong> aur <strong>y</strong> ke liye solve karein:</p>\n"
+			"hi_text": "<strong>x</strong> aur <strong>y</strong> ke liye solve karein:\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
-			"common_text": "<p>y = x + 8<br/>\ny = 3x + 10</p>\n",
+			"en_text": "PENDING\n",
+			"common_text": "y = x + 8<br/>\ny = 3x + 10\n",
 			"type": "MCQ",
 			"id": 28,
 			"options": [
 				{
-					"hi_text": "<td style=\"text-align:left\"><strong>x = 1, y = 7</strong></td>",
+					"hi_text": "<strong>x = 1, y = 7</strong>",
 					"is_common": true,
 					"id": 82,
-					"en_text": "<td style=\"text-align:left\"><strong>x = 1, y = 7</strong></td>",
+					"en_text": "<strong>x = 1, y = 7</strong>",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\"><strong>x = 0, y = 8</strong></td>",
+					"hi_text": "<strong>x = 0, y = 8</strong>",
 					"is_common": true,
 					"id": 83,
-					"en_text": "<td style=\"text-align:left\"><strong>x = 0, y = 8</strong></td>",
+					"en_text": "<strong>x = 0, y = 8</strong>",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\"><strong>x = -1, y = 7</strong></td>",
+					"hi_text": "<strong>x = -1, y = 7</strong>",
 					"is_common": true,
 					"id": 84,
-					"en_text": "<td style=\"text-align:left\"><strong>x = -1, y = 7</strong></td>",
+					"en_text": "<strong>x = -1, y = 7</strong>",
 					"correct": true
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\"><strong>x = 2, y = 10</strong></td>",
+					"hi_text": "<strong>x = 2, y = 10</strong>",
 					"is_common": true,
 					"id": 85,
-					"en_text": "<td style=\"text-align:left\"><strong>x = 2, y = 10</strong></td>",
+					"en_text": "<strong>x = 2, y = 10</strong>",
 					"correct": false
 				}
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p><strong>x</strong> aur <strong>y</strong> ke liye solve karein:</p>\n"
+			"hi_text": "<strong>x</strong> aur <strong>y</strong> ke liye solve karein:\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
-			"common_text": "<p><img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/b01b492f-b614-4cc4-a57f-c9157a416152.png\"/></p>\n",
+			"en_text": "PENDING\n",
+			"common_text": "<img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/b01b492f-b614-4cc4-a57f-c9157a416152.png\"/>\n",
 			"type": "MCQ",
 			"id": 29,
 			"options": [
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/58e62455-2451-4e42-9293-cf8384eac62a.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/58e62455-2451-4e42-9293-cf8384eac62a.png\"/>",
 					"is_common": true,
 					"id": 86,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/58e62455-2451-4e42-9293-cf8384eac62a.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/58e62455-2451-4e42-9293-cf8384eac62a.png\"/>",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/1d9c5cca-8bc5-47a2-ac87-43724923157d.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/1d9c5cca-8bc5-47a2-ac87-43724923157d.png\"/>",
 					"is_common": true,
 					"id": 87,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/1d9c5cca-8bc5-47a2-ac87-43724923157d.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/1d9c5cca-8bc5-47a2-ac87-43724923157d.png\"/>",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/148e8a3e-caa3-475d-8ea7-8c33e7da21f2.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/148e8a3e-caa3-475d-8ea7-8c33e7da21f2.png\"/>",
 					"is_common": true,
 					"id": 88,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/148e8a3e-caa3-475d-8ea7-8c33e7da21f2.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/148e8a3e-caa3-475d-8ea7-8c33e7da21f2.png\"/>",
 					"correct": true
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/75aae7b1-19b4-4c61-b1cc-0f309b293fb6.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/75aae7b1-19b4-4c61-b1cc-0f309b293fb6.png\"/>",
 					"is_common": true,
 					"id": 89,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/75aae7b1-19b4-4c61-b1cc-0f309b293fb6.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/75aae7b1-19b4-4c61-b1cc-0f309b293fb6.png\"/>",
 					"correct": false
 				}
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Question mark ki jagah par sahi figure choose kijiye.</p>\n"
+			"hi_text": "Question mark ki jagah par sahi figure choose kijiye.\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
-			"common_text": "<p><img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/cad010f5-e4a0-49a6-bd9b-287490670054.png\"/></p>\n",
+			"en_text": "PENDING\n",
+			"common_text": "<img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/cad010f5-e4a0-49a6-bd9b-287490670054.png\"/>\n",
 			"type": "MCQ",
 			"id": 30,
 			"options": [
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/bc42149c-8d18-4049-9aa2-298c5d27c6b1.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/bc42149c-8d18-4049-9aa2-298c5d27c6b1.png\"/>",
 					"is_common": true,
 					"id": 90,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/bc42149c-8d18-4049-9aa2-298c5d27c6b1.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/bc42149c-8d18-4049-9aa2-298c5d27c6b1.png\"/>",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/96ce7a1b-efd3-4d82-a590-f6b7d2b9ddb0.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/96ce7a1b-efd3-4d82-a590-f6b7d2b9ddb0.png\"/>",
 					"is_common": true,
 					"id": 91,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/96ce7a1b-efd3-4d82-a590-f6b7d2b9ddb0.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/96ce7a1b-efd3-4d82-a590-f6b7d2b9ddb0.png\"/>",
 					"correct": true
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/d6b60f08-2391-4790-aa02-ab57599cdab7.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/d6b60f08-2391-4790-aa02-ab57599cdab7.png\"/>",
 					"is_common": true,
 					"id": 92,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/d6b60f08-2391-4790-aa02-ab57599cdab7.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/d6b60f08-2391-4790-aa02-ab57599cdab7.png\"/>",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/b92be7cd-01c4-449a-9683-06a186cca225.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/b92be7cd-01c4-449a-9683-06a186cca225.png\"/>",
 					"is_common": true,
 					"id": 93,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/b92be7cd-01c4-449a-9683-06a186cca225.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/b92be7cd-01c4-449a-9683-06a186cca225.png\"/>",
 					"correct": false
 				}
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Question mark ki jagah par sahi figure choose kijiye.</p>\n"
+			"hi_text": "Question mark ki jagah par sahi figure choose kijiye.\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
+			"en_text": "PENDING\n",
 			"common_text": "",
 			"type": "Integer Answer",
 			"id": 31,
@@ -1000,10 +1000,10 @@
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Aapke room ka temperature -17 degree celsius hai. Aapne apne room mein room heater on kiya. Ab aapke kamre ka temperature every 5 minutes mein 3 degree celsius badh raha hai. 30 mins baad aapke room ka temperature kitna hoga?</p>\n"
+			"hi_text": "Aapke room ka temperature -17 degree celsius hai. Aapne apne room mein room heater on kiya. Ab aapke kamre ka temperature every 5 minutes mein 3 degree celsius badh raha hai. 30 mins baad aapke room ka temperature kitna hoga?\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
+			"en_text": "PENDING\n",
 			"common_text": "",
 			"type": "Integer Answer",
 			"id": 32,
@@ -1018,163 +1018,163 @@
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Ek machhli paani mein 300 metres neeche thi. Aapko woh macchli pakadni hai toh aapne paani ke upar chara dala. Ab woh machhli har 5 minute mein 25 metre upar aa rahi hai. 20 minute baad woh machhli paani mein kitne metre neeche hogi?</p>\n"
+			"hi_text": "Ek machhli paani mein 300 metres neeche thi. Aapko woh macchli pakadni hai toh aapne paani ke upar chara dala. Ab woh machhli har 5 minute mein 25 metre upar aa rahi hai. 20 minute baad woh machhli paani mein kitne metre neeche hogi?\n"
 		},
 		{
-			"en_text": "<p>What would be the next image in this pattern?</p>\n",
-			"common_text": "<p><img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/a6f4b002-88c2-413d-9ff9-9e8a602440ec.png\"/></p>\n",
+			"en_text": "What would be the next image in this pattern?\n",
+			"common_text": "<img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/a6f4b002-88c2-413d-9ff9-9e8a602440ec.png\"/>\n",
 			"type": "MCQ",
 			"id": 33,
 			"options": [
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/a428b0c9-f0ff-4a57-9a19-b4fb315b708d.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/a428b0c9-f0ff-4a57-9a19-b4fb315b708d.png\"/>",
 					"is_common": true,
 					"id": 96,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/a428b0c9-f0ff-4a57-9a19-b4fb315b708d.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/a428b0c9-f0ff-4a57-9a19-b4fb315b708d.png\"/>",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/99618d93-3ab6-4e12-a783-7fcba886f7cf.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/99618d93-3ab6-4e12-a783-7fcba886f7cf.png\"/>",
 					"is_common": true,
 					"id": 97,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/99618d93-3ab6-4e12-a783-7fcba886f7cf.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/99618d93-3ab6-4e12-a783-7fcba886f7cf.png\"/>",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/bcb9e3ba-79ab-4fb8-8f98-54157c0efbf0.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/bcb9e3ba-79ab-4fb8-8f98-54157c0efbf0.png\"/>",
 					"is_common": true,
 					"id": 98,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/bcb9e3ba-79ab-4fb8-8f98-54157c0efbf0.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/bcb9e3ba-79ab-4fb8-8f98-54157c0efbf0.png\"/>",
 					"correct": true
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/6a0d3c64-0c93-46c9-9f7d-44ab9b442e82.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/6a0d3c64-0c93-46c9-9f7d-44ab9b442e82.png\"/>",
 					"is_common": true,
 					"id": 99,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/6a0d3c64-0c93-46c9-9f7d-44ab9b442e82.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/6a0d3c64-0c93-46c9-9f7d-44ab9b442e82.png\"/>",
 					"correct": false
 				}
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Inn images mein agla part kaunsa aayega?</p>\n"
+			"hi_text": "Inn images mein agla part kaunsa aayega?\n"
 		},
 		{
-			"en_text": "<p>Choose the Mirror image of X from the images given below.</p>\n",
-			"common_text": "<p><img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/6c550f3a-bb54-4c92-8eaa-0899ae084915.png\"/></p>\n",
+			"en_text": "Choose the Mirror image of X from the images given below.\n",
+			"common_text": "<img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/6c550f3a-bb54-4c92-8eaa-0899ae084915.png\"/>\n",
 			"type": "MCQ",
 			"id": 34,
 			"options": [
 				{
-					"hi_text": "<td style=\"text-align:left\">3</td>",
+					"hi_text": "3",
 					"is_common": true,
 					"id": 100,
-					"en_text": "<td style=\"text-align:left\">3</td>",
+					"en_text": "3",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">1</td>",
+					"hi_text": "1",
 					"is_common": true,
 					"id": 101,
-					"en_text": "<td style=\"text-align:left\">1</td>",
+					"en_text": "1",
 					"correct": true
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">2</td>",
+					"hi_text": "2",
 					"is_common": true,
 					"id": 102,
-					"en_text": "<td style=\"text-align:left\">2</td>",
+					"en_text": "2",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\">4</td>",
+					"hi_text": "4",
 					"is_common": true,
 					"id": 103,
-					"en_text": "<td style=\"text-align:left\">4</td>",
+					"en_text": "4",
 					"correct": false
 				}
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Niche diye hue images mein se X ki mirror image ko chuniye</p>\n"
+			"hi_text": "Niche diye hue images mein se X ki mirror image ko chuniye\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
-			"common_text": "<p><img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/f5796157-f3c1-47de-a119-9517df36129b.png\"/></p>\n",
+			"en_text": "PENDING\n",
+			"common_text": "<img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/f5796157-f3c1-47de-a119-9517df36129b.png\"/>\n",
 			"type": "MCQ",
 			"id": 35,
 			"options": [
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/e7cab79f-b93a-4187-af43-2ed8218d3aad.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/e7cab79f-b93a-4187-af43-2ed8218d3aad.png\"/>",
 					"is_common": true,
 					"id": 104,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/91c0e043-657a-4529-bae6-313806aa346b.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/91c0e043-657a-4529-bae6-313806aa346b.png\"/>",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/13201bd5-b533-4a61-8123-7412bbe47a30.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/13201bd5-b533-4a61-8123-7412bbe47a30.png\"/>",
 					"is_common": true,
 					"id": 105,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/cea75fd9-1225-478e-ad4f-0a8cc122dd85.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/cea75fd9-1225-478e-ad4f-0a8cc122dd85.png\"/>",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/721c8919-52f8-4673-a589-0e3613cea960.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/721c8919-52f8-4673-a589-0e3613cea960.png\"/>",
 					"is_common": true,
 					"id": 106,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/1c248940-9bf8-45c3-8d19-4593ded581a8.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/1c248940-9bf8-45c3-8d19-4593ded581a8.png\"/>",
 					"correct": true
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/a72727cd-cf15-427f-9a76-cea989b9007a.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/a72727cd-cf15-427f-9a76-cea989b9007a.png\"/>",
 					"is_common": true,
 					"id": 107,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/c709b096-6594-421d-b902-9e22cb1b102f.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/c709b096-6594-421d-b902-9e22cb1b102f.png\"/>",
 					"correct": false
 				}
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Question mark ki jagah par sahi figure choose kijiye.</p>\n"
+			"hi_text": "Question mark ki jagah par sahi figure choose kijiye.\n"
 		},
 		{
-			"en_text": "<p>PENDING</p>\n",
-			"common_text": "<p><img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/f37d66c0-7cfb-420e-b9d3-d28812cb42d2.png\"/></p>\n",
+			"en_text": "PENDING\n",
+			"common_text": "<img alt=\"\" class=\"center-image\" src=\"http://chanakya-dev.s3.amazonaws.com/f37d66c0-7cfb-420e-b9d3-d28812cb42d2.png\"/>\n",
 			"type": "MCQ",
 			"id": 36,
 			"options": [
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/26e7f662-2b21-4c7c-bad1-d71b8dee3d53.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/26e7f662-2b21-4c7c-bad1-d71b8dee3d53.png\"/>",
 					"is_common": true,
 					"id": 108,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/9dd5c510-4a39-444e-8acf-f83c40528b76.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/9dd5c510-4a39-444e-8acf-f83c40528b76.png\"/>",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/430014dc-c3b9-4b16-b3c3-913d436d5d75.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/430014dc-c3b9-4b16-b3c3-913d436d5d75.png\"/>",
 					"is_common": true,
 					"id": 109,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/f1c4df61-0f22-400b-99aa-4db48e3dc271.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/f1c4df61-0f22-400b-99aa-4db48e3dc271.png\"/>",
 					"correct": true
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/1e04e6ac-ffa9-4692-9521-6d1ba040a218.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/1e04e6ac-ffa9-4692-9521-6d1ba040a218.png\"/>",
 					"is_common": true,
 					"id": 110,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/7fdf731d-13e4-42bf-8bc1-d282910a231d.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/7fdf731d-13e4-42bf-8bc1-d282910a231d.png\"/>",
 					"correct": false
 				},
 				{
-					"hi_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/de23f368-ae8a-4ec7-84f0-08d84427511f.png\"/></td>",
+					"hi_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/de23f368-ae8a-4ec7-84f0-08d84427511f.png\"/>",
 					"is_common": true,
 					"id": 111,
-					"en_text": "<td style=\"text-align:left\"><img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/cae97c26-af33-4980-b483-3d51f7fd178f.png\"/></td>",
+					"en_text": "<img alt=\"\" class=\"option-image\" src=\"http://chanakya-dev.s3.amazonaws.com/cae97c26-af33-4980-b483-3d51f7fd178f.png\"/>",
 					"correct": false
 				}
 			],
 			"topic": "BASIC_MATH",
 			"difficulty": "Easy",
-			"hi_text": "<p>Question mark ki jagah par sahi figure choose kijiye.</p>\n"
+			"hi_text": "Question mark ki jagah par sahi figure choose kijiye.\n"
 		}
 	]
 }
