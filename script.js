@@ -46,8 +46,14 @@ handleBar.registerHelper("string_upper", function(index) {
 });
 
 handleBar.registerHelper("hasParaTag", function(string){
-	return string.indexOf("<p>") > -1
+	return string.indexOf("<p>") > -1;
 })
+
+handleBar.registerHelper("hasImgTag", function(string){
+	return string.indexOf("<img") > -1;
+
+})
+
 // console.log(handleBar);
 const readFileAsync = filePath => {
 	return new Promise((resolve, reject) => {
@@ -112,18 +118,14 @@ const createPdf = (inputHtmlFile, outputPdfFile) => {
 					margin: {
 						top: "1.5cm",
 						bottom: "1cm",
-						// right:"1cm",
-						// left:"0.3cm"
 					},
-					footer: {
-						height: "1cm"
-					}
 				})
 				.then(() => {
 					// console.log(1);
 					return page.property("settings", {
 						dpi: "96",
 						loadImages: true, // image load problem solved using this.
+						userAgent: 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0',
 					});
 				})
 				.then(() => {
