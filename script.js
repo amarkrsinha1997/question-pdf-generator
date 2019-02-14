@@ -45,6 +45,9 @@ handleBar.registerHelper("string_upper", function(index) {
 	return string_upper[index];
 });
 
+handleBar.registerHelper("hasParaTag", function(string){
+	return string.indexOf("<p>") > -1
+})
 // console.log(handleBar);
 const readFileAsync = filePath => {
 	return new Promise((resolve, reject) => {
@@ -79,28 +82,16 @@ const readJsonFile = filePath => readFileAsync(filePath).then(string => JSON.par
  * create the html page for rendering in question.html.
  */
 
-const htmlPageGenerator = (inputFilePath, jsonFilePath, outputFilePath) => {
-	return readJsonFile(jsonFilePath).then(jsonData => {
-		// check if the json file is correct
-		// check if all question has minimum one options and answer or not.
-		//readJsonFile check if the question have a set name or not.
-		jsonData.questions = jsonData.questions.slice(0, 18);
-		// render using mustache
-		return readFileAsync(inputFilePath)
-			.then(htmlString => {
-				console.log("****************************");
-				console.log(htmlString);
-				return handleBar.compile(htmlString);
-			})
-			.then(template => template(jsonData))
-			.then(renderedHtml => {
-				writeFileAsync(outputFilePath, renderedHtml);
-			})
-			.catch(error => {
-				console.log(error);
-				process.exit(1);
-			});
-	});
+const htmlPageGenerator = (inputFilePath, jsonData, outputFilePath) => {
+	// render using mustache
+	return readFileAsync(inputFilePath)
+		.then(htmlString => handleBar.compile(htmlString))
+		.then(template => template(jsonData))
+		.then(renderedHtml => writeFileAsync(outputFilePath, renderedHtml))
+		.catch(error => {
+			console.log(error);
+			process.exit(1);
+		});
 };
 
 /**
@@ -147,7 +138,6 @@ const createPdf = (inputHtmlFile, outputPdfFile) => {
 								page.render(outputPdfFile);
 								page.close();
 							}, 5000);
-							return Promise.resolve();
 						}
 					})
 				})
@@ -157,7 +147,8 @@ const createPdf = (inputHtmlFile, outputPdfFile) => {
 
 		});
 };
-const jsonFile = "questions.json";
+const jsonFile = "questions_main.json";
+
 const questionHtml = "question_pdf.html";
 const answerHtml = "answer_pdf.html";
 
@@ -167,18 +158,25 @@ const outputAnswerHtml = "answer.html";
 const outputQuestionPdf = "question.pdf";
 const outputAnswerPdf = "answer.pdf";
 
-const init = () => {
-	return htmlPageGenerator(questionHtml, jsonFile, outputQuestionHtml).then(() => {
-		return createPdf(outputQuestionHtml, outputQuestionPdf)
-	});
+const init = (questions, partnerName, setName) => {
+	const jsonData = {
+		questions,
+		partnerName,
+		setName
+	};
+
+	return htmlPageGenerator(questionHtml, jsonData, outputQuestionHtml)
+		.then(() => {
+			return createPdf(outputQuestionHtml, outputQuestionPdf);
+		})
+		.then(() => {
+			return htmlPageGenerator(answerHtml, jsonData, outputAnswerHtml);
+		})
+		.then(() => {
+			return createPdf(outputAnswerHtml, outputAnswerPdf);
+		});
 };
 
+readJsonFile(jsonFile).then(response => init(response['data'], "Navgurukul", "A"))
 
-init()
-.then(() => {
-	console.log("question_done")
-	return htmlPageGenerator(answerHtml, jsonFile, outputAnswerHtml).then(() => {
-		return createPdf(outputAnswerHtml, outputAnswerPdf)
-	});
-})
-.then(()=>console.log("answer_done"))
+module.init = init;

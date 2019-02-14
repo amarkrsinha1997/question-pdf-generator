@@ -48,12 +48,17 @@
       margin:auto;
       height: 70px !important;
     }
-    .center-image{
+
+    /** Image size fixing for question*/
+    .commen-text img{
       display: block;
       margin: 0 auto;
-      max-height: 200px;
+      max-height: 120px;
     }
-
+    /** Image size fixing for options*/
+    .options-cell img{
+      height: 50px;
+    }
 
     /*css for studet detail form secction...*/
     .student-info{
@@ -70,9 +75,7 @@
       border: 1px solid #dddddd;
       text-align: center;
     }
-    .option-image {
-      height: 80px;
-    }
+    
     .question-table{
       margin: 20px;
     }
@@ -134,8 +137,8 @@
     <div class="heading">
       <center>
         <h2>
-          <b>NavGurukul Scholarship Test - Set {{ set_name }}</b> </br>
-          <b>Partner : {{ partner_name }}</b>
+          <b>NavGurukul Scholarship Test - Set {{ setName }}</b> </br>
+          <b>Partner : {{ partnerName }}</b>
         </h2>
         <h3>Question Paper</h3>
       </center>
@@ -147,61 +150,71 @@
         <tr>
           <td width="4%" valign='top'><b> {{inc @index}}. </b></td>
           <td valign='top' class="padding-zero">
-            <table class="question-display padding-zero">
-              {{#if (eq this.type 'MCQ')}}
-              <tr>
-                <td class="question-text">
-                  {{#if this.common_text}}
-                    <p>
-                      {{{this.common_text}}}
-                    </p>
-                  {{/if}}
-                  <p>
-                    {{{this.en_text}}}
-                  </p>
-                  <p>
-                    {{{this.hi_text}}}
-                  </p>
-                </td>
-              </tr>
-              <tr class="inline-block">
-                {{#each this.options}}
-                <tr style="display:inline-block; min-width:45%;">
-                  <td style="width:20px" colspan="2">{{string_lower @index}}).</td>
-                  <td class="options-cell">
-                    {{#if this.is_common}}
-                    <p>
-                      {{{this.hi_text}}}
-                    </p>
-                    {{else}}
-                    <p>
-                      {{{this.en_text}}}
-                    </p>
-                    <p>
-                      {{{this.hi_text}}}                      
-                    </p>
-                    {{/if}}
-                  </td>
-                </tr>
-              {{/each}}
-              </tr>
-              {{else}}
+            <table class="question-display padding-zero">   
               <tr>
                 <td valign='top' class="question-text">
-                  {{#if this.common_text}}
-                    <p>
-                      {{{this.common_text}}}
-                    </p>
+                  {{!-- 
+                    commen text between the questions like
+                    images, mathematical equation.
+                  --}}
+                  {{#if this.commonText}}
+                    <div class="commen-text">
+                      {{#if (hasParaTag this.commonText) }}
+                        {{{this.commonText}}}                    
+                      {{else}}
+                        <p>
+                          {{{this.commonText}}}
+                        </p>
+                      {{/if}}
+                    </div>
                   {{/if}}
-                  <p>
-                    {{{this.en_text}}}
-                  </p>
-                  <p>
-                    {{{this.hi_text}}}
-                  </p>
-                  <p>Iska answer likho answers wale page pe.</p>
+
+                  {{!-- English text --}}
+                  {{#if this.enText}}
+                    {{#if (hasParaTag this.enText) }}
+                      {{{this.enText}}}                    
+                    {{else}}
+                      <p>
+                        {{{this.enText}}}
+                      </p>
+                    {{/if}}
+                  {{/if}}
+
+                  {{!-- Hindi text --}}
+                  {{#if this.hiText}}
+                    {{#if (hasParaTag this.hiText) }}
+                      {{{this.hiText}}}                    
+                    {{else}}
+                      <p>
+                        {{{this.hiText}}}
+                      </p>
+                    {{/if}} 
+                  {{/if}}
+
+
+                  {{#if (eq this.type 2)}}
+                    <p>Iska answer likho answers wale page pe.</p>
+                  {{/if}}
                 </td>
               </tr>
+
+              {{#if (eq this.type 1)}}
+                  <tr class="inline-block">
+                    {{#each this.options}}
+                    <tr style="display:inline-block; min-width:45%;">
+                      <td style="width:20px" colspan="2">{{string_lower @index}}).</td>
+                      <td class="options-cell">
+                        {{#if (hasParaTag this.text) }}
+                          {{{this.text}}}                    
+                        {{else}}
+                          <p>
+                            {{{this.text}}}
+                          </p>
+                        {{/if}}
+                      </td>
+                    </tr>
+                    {{/each}}
+                  </tr>
               {{/if}}
             </table>
           </td>
@@ -216,7 +229,7 @@
     <div class="set-heading heading">
       <center>
         <h1>
-          Set {{ set_name }}
+          Set {{ setName }}
         </h1>
       </center>
     </div>
@@ -252,7 +265,7 @@
               {{inc @index}})
             </b>
           </td>
-          {{#if (eq this.type 'MCQ')}}
+          {{#if (eq this.type 1)}}
           <td class="padding-zero">
             <table class="inner-table">
               <tr>
@@ -285,7 +298,7 @@
     <div class="set-heading heading">
       <center>
         <h1>
-          Set {{ set_name }}
+          Set {{ setName }}
         </h1>
       </center>
     </div>

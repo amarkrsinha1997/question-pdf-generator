@@ -33,8 +33,8 @@
 <body>
 		{{!-- {{setVar 'strings' 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'}} --}}
 <div class="container">
-	<p class="heading">Set {{ set_name }} </br> Answer Key</p>
-	<p class="heading">Set ID : ({{ id }})</p>
+	<p class="heading">Set {{ setName }} </br> Answer Key</p>
+	{{!-- <p class="heading">Set ID : ({{ id }})</p> --}}
 	<table width="100%">
 	  <tr >
 	    <th>QUESTION NUMBER</th>
@@ -47,7 +47,7 @@
 	    <td>{{inc @index}}.</td>
 	    <td>{{this.type}}</td>
 			<td>
-			{{#if (eq this.type 'MCQ')}}
+			{{#if (eq this.type 1)}}
 		    {{#each this.options}}
 					{{#if this.correct}}
 						{{ string_upper @index }}
@@ -55,7 +55,7 @@
 				{{/each}}
 			{{else}}
 				{{#each this.options}}
-					{{ this.en_text }}
+					{{ this.text }}
 				{{/each}}
 			{{/if}}
 			</td>
